@@ -1,6 +1,6 @@
 # Introduction:
 The pursuit of happiness is a fundamental aspect of human well-being, and understanding the factors that contribute to happiness is of great interest to researchers and policymakers worldwide. The World Happiness Report provides a comprehensive assessment of happiness levels and its determinants across different countries. In this data analysis project, we aim to delve into the World Happiness Report from 2020 and 2021, exploring trends, patterns, and key insights regarding global happiness.
-# [Interactive Notebook]()
+## [View Interactive Notebook](https://nbviewer.org/github/BvernyuyN/world-happiness-score-EDA-for-2020-and-2021/blob/main/Notebook.ipynb)
 # Objective:
 The primary objective of this project is to analyze the World Happiness Report data spanning from 2020 and 2021 and gain a deeper understanding of the factors influencing happiness levels worldwide. By conducting exploratory data analysis, we seek to uncover trends, patterns, and correlations within the dataset, identifying key factors associated with happiness and exploring their changes over time.
 
@@ -24,6 +24,8 @@ The primary objective of this project is to analyze the World Happiness Report d
 "What are the top happiest countries and the least countries per the factors that affect happiness score"?
 
 "What are the ten top happiest countries and the 1o least happy countries"?
+
+## [View Interactive Notebook](https://nbviewer.org/github/BvernyuyN/world-happiness-score-EDA-for-2020-and-2021/blob/main/Notebook.ipynb)
 
 #understanding the datasets
 
@@ -49,6 +51,8 @@ Perceptions of corruption: This column indicates the perceived level of corrupti
 
 These columns provide insights into various factors that contribute to the overall happiness scores reported in the World Happiness Report. Analyzing these columns helps in understanding the relationship between economic factors, social support, health, freedom, generosity, perceptions of corruption, and happiness levels across different countries and regions.
 
+## [View Interactive Notebook](https://nbviewer.org/github/BvernyuyN/world-happiness-score-EDA-for-2020-and-2021/blob/main/Notebook.ipynb)
+
 # Methodology:
 Data Collection: We will gather the World Happiness Report data for the years 2020 to 2021, including various factors such as GDP per capita, social support, life expectancy, freedom, generosity, and perceptions of corruption.
 
@@ -71,7 +75,12 @@ By conducting this data analysis project on the World Happiness Report from 2020
 # Data source :
 The data sources for this data analysis project were obtained from Kaggle, a popular platform for data scientists and analysts to share and discover datasets. Kaggle hosts a wide range of datasets contributed by the community, including the World Happiness Report dataset. 2020 data was obtained from: https://www.kaggle.com/datasets/londeen/world-happiness-report-2020 2021 data was obtained from:https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021 Sub regions data were obtained from:https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region
 
+
+## [View Interactive Notebook](https://nbviewer.org/github/BvernyuyN/world-happiness-score-EDA-for-2020-and-2021/blob/main/Notebook.ipynb)
+
+
 #Summary and findings
+
 
 This project undertook an in-depth analysis of the World Happiness Score spanning the years 2020 to 2021, with a central focus on identifying the factors that influence global happiness levels and exploring regional variations in these determinants. The findings from this study have yielded profound insights into the evolving landscape of happiness on a worldwide scale during this two-year period.
 
