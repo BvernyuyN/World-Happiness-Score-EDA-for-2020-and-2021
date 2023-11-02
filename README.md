@@ -79,7 +79,7 @@ The data sources for this data analysis project were obtained from Kaggle, a pop
 ## [View Interactive Notebook](https://nbviewer.org/github/BvernyuyN/world-happiness-score-EDA-for-2020-and-2021/blob/main/Notebook.ipynb)
 
 
-#Summary and findings
+# Summary and findings
 
 
 This project undertook an in-depth analysis of the World Happiness Score spanning the years 2020 to 2021, with a central focus on identifying the factors that influence global happiness levels and exploring regional variations in these determinants. The findings from this study have yielded profound insights into the evolving landscape of happiness on a worldwide scale during this two-year period.
